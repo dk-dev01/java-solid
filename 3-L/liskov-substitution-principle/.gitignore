@@ -1,0 +1,39 @@
+# Compilados
+*.class
+*.jar
+*.war
+*.ear
+
+# Saídas de build
+out/
+build/
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Kotlin
+.kotlin/
+
+# Logs
+*.log
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
